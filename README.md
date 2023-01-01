@@ -1,2 +1,2 @@
-# solid-octo-barnacle
+# alculadora em Javascript
 Calculadora feita em Javascript
